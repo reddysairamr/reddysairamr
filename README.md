@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @reddysairamr
 - 👀 I’m interested in software development and engineering!
-- 🌱 I’m currently learning back-end web development 
 - 📫 Reach out to me via my email: reddysairamr@gmail.com
 
 <!---
